@@ -1,0 +1,35 @@
+{
+    "name": "android_theme_studio",
+    "short_name": "ThemeStudio",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0F0F1A",
+    "theme_color": "#667EEA",
+    "description": "Android 15 主题美化工具",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

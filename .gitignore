@@ -1,0 +1,19 @@
+# 以下是 Flutter 项目标准 .gitignore 内容
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+.idea/
+.vscode/
+*.iml
+*.apk
+*.ap_
+*.aab
+*.jar
+*.class
+*.log
+*.pyc
+__pycache__/
